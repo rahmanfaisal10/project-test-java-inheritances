@@ -1,0 +1,3 @@
+ class hewanBaru extends macamHewan {
+     
+}
